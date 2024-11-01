@@ -1,0 +1,7 @@
+{
+  "name": "WaterQ",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
